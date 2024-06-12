@@ -1,0 +1,15 @@
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\bin\Debug\net6.0\Zobaczysz.exe
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\bin\Debug\net6.0\Zobaczysz.deps.json
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\bin\Debug\net6.0\Zobaczysz.runtimeconfig.json
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\bin\Debug\net6.0\Zobaczysz.dll
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\bin\Debug\net6.0\Zobaczysz.pdb
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.csproj.AssemblyReference.cache
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.AssemblyInfoInputs.cache
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.AssemblyInfo.cs
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.csproj.CoreCompileInputs.cache
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.dll
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\refint\Zobaczysz.dll
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.pdb
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\Zobaczysz.genruntimeconfig.cache
+C:\Users\Popuś\source\repos\PojektProgramista2024\Zobaczysz\Zobaczysz\obj\Debug\net6.0\ref\Zobaczysz.dll
